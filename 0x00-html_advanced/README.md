@@ -3,7 +3,7 @@
 
 In this project, we learn how to use HTML tags to structure a web page. No CSS, no styling. We will be building a web page named `Techium`.
 
-![alt text][webpage] "Recommended web page structure"
+![Recommended web page structure][webpage]
 
 
 ## Resources
@@ -33,10 +33,10 @@ The semantic value’s of `header`, `main`, `footer`, `article`, `nav`, `section
 - How to correctly structure an HTML page
 
 # Sitemap of the project
-![alt text][sitemap] "Sitemap of the project"
+![Sitemap of the project][sitemap]
 
 # Wireframe of Techium project
-![alt text][wireframe] "Wireframe of Techium project"
+![Wireframe of Techium project][wireframe]
 
 [sitemap]: https://github.com/DannyEnagu/alx-frontend/blob/main/0x00-html_advanced/alx-resource-images/techium-sitemap.png
 [wireframe]: https://github.com/DannyEnagu/alx-frontend/blob/main/0x00-html_advanced/alx-resource-images/techium-wireframe.png
