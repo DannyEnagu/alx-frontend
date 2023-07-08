@@ -38,6 +38,6 @@ The semantic value’s of `header`, `main`, `footer`, `article`, `nav`, `section
 # Wireframe of Techium project
 ![alt text][wireframe] "Wireframe of Techium project"
 
-[sitemap]:
-[wireframe]:
-[webpage]:
+[sitemap]: https://github.com/DannyEnagu/alx-frontend/blob/main/0x00-html_advanced/alx-resource-images/techium-sitemap.png
+[wireframe]: https://github.com/DannyEnagu/alx-frontend/blob/main/0x00-html_advanced/alx-resource-images/techium-wireframe.png
+[webpage]: https://github.com/DannyEnagu/alx-frontend/blob/main/0x00-html_advanced/alx-resource-images/web-page-structure.jpg
