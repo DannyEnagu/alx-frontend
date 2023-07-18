@@ -199,6 +199,7 @@ a:active {
 }
 
 .nav .nav-link {
+  position: relative;
   display: block;
   padding: 0.5rem 1rem;
 }
