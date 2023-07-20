@@ -1102,15 +1102,8 @@
     }
   }
   
-  /* For mobile styles */
-  @media (min-width: 481px) {
-    .header-logo {
-      flex-basis: 79%;
-    }
-  }
-  
-  /* For tablet / medium styles */
-  @media (max-width: 767px) {
+  /* For mobile styles and For tablet / medium styles */
+  @media (min-width: 481px) and (max-width: 767px) {
     .header-logo {
       flex-basis: 79%;
     }
