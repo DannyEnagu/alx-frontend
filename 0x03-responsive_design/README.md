@@ -23,4 +23,6 @@ Responsive Design of the `Techium` project - mobile version
 - The differences between responsive and adaptive design
 - CSS units that are used to make elements flexible
 
+## Tools
+
 - [Responsive Image Breakpoints Generator](https://www.responsivebreakpoints.com/)
